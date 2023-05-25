@@ -67,8 +67,8 @@ function App() {
   //   }, 3000);
   return (
     <div>
-      <input type="text" placeholder="email"></input>
-      <input type="text" placeholder="password"></input>
+      <input type="text" placeholder="Enter email"></input>
+      <input type="text" placeholder="Enter password"></input>
       <button>Signin</button>
       <div>
         <button onClick={() => setproblems((problems) => problems1)}>1</button>
